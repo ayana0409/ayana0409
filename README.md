@@ -2,11 +2,9 @@
 
 ## Introduce
 
-Tôi là một lập trình viên yêu thích công nghệ và đam mê khám phá những điều mới mẻ. Tôi thường làm việc với các công nghệ như [các công nghệ mà bạn thường sử dụng, ví dụ như ReactJS, ASP.NET Core, Docker,...].
+I'm a programmer who loves technology and is passionate about discovering new things. I often work with technologies such as Net8, ReactJS, Docker.
 
-## Dự án đang làm việc
-
-Hiện tại, tôi đang tập trung vào các dự án sau:
+## Project
 
 - **[PharmaStore-API](https://github.com/ayana0409/PharmaShop.Api)**: WebAPI using Net8. 
 
@@ -20,7 +18,7 @@ Hiện tại, tôi đang tập trung vào các dự án sau:
 
 - Email: [duongdoanthuan2003@gmail.com](mailto:duongdoanthuan2003@gmail.com)
 
-Cảm ơn đã ghé thăm profile của tôi!
+Thanks for visit my profile!
 
 
 <!---
