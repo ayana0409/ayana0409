@@ -2,21 +2,22 @@
 
 ## Introduce
 
-I'm a programmer who loves technology and is passionate about discovering new things. I often work with technologies such as Net8, ReactJS, Docker.
+I'm a programmer who loves technology and is passionate about discovering new things. I often work with technologies such as .NET 8, ReactJS, Docker.
 
-## Project
+## Projects
 
-- **[PharmaStore-API](https://github.com/ayana0409/PharmaShop.Api)**: WebAPI using Net8. 
+- **[PharmaStore-API](https://github.com/ayana0409/PharmaShop.Api)**: A Web API built using .NET 8 to manage pharmaceutical products, orders, and customers.
 
 ## Skills
 
-- **Programing lanquage**: C#, JavaScript
+- **Programming language**: C#, JavaScript
 - **Technology and framework**: ASP.NET Core, Entity Framework, LinQ, ReactJS, Docker
 - **Database**: SQL Server, PostgreSQL, MySQL
 
 ## Contact
 
 - Email: [duongdoanthuan2003@gmail.com](mailto:duongdoanthuan2003@gmail.com)
+- X: [https://x.com/thuanskyon](https://x.com/thuanskyon)
 
 Thanks for visit my profile!
 
