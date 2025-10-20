@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thuan</h1>
-<h3 align="center">Back-end developer</h3>
+<h3 align="center">Developer</h3>
 <img alt="image" width="100%" src="https://pbs.twimg.com/media/GlC8WObXAAAS3mV?format=jpg&name=medium">
 
 * 🌍  I'm based in Can Tho City
 * ✉️  You can contact me at [duongdoanthuan2003@gmail.com](mailto:duongdoanthuan2003@gmail.com)
-* 🧠  I'm learning Python (Django)
+* 🧠  I'm learning Next/Nest
 
 ### Skills
 
